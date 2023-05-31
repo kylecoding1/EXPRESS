@@ -54,11 +54,11 @@ To start the application, run `npm start` in your command line.
 Open your browser and visit `http://localhost:3001` to view the application.
 
 ## Project links
-Live Hroku app : https://obscure-chamber-26936.herokuapp.com/
+Live Heroku app : https://obscure-chamber-26936.herokuapp.com/
 
-Github repository link : https://github.com/kylecoding1/express
+Github repository link : https://github.com/kylecoding1/express
 
-Deployed Application link: https://kylecoding1.github.io/express/
+Deployed Application link: https://kylecoding1.github.io/express/
 
 
 ## License
